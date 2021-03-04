@@ -7,6 +7,9 @@ import 'roboto-fontface/css/roboto/roboto-fontface.css'
 
 Vue.config.productionTip = false
 
+// Tailwind
+import '@/assets/css/main.css'
+
 new Vue({
   router,
   store,
